@@ -3,5 +3,5 @@ This Java program reads given files and it sorts file data. Then it searches for
 EXAMPLE OUTPUT<br>
 cities.txt 4<br>
 Please enter the word : İ <br>
-Output: İstanbul, Turkey 11174257 İzmir, Turkey 2500603 İzmit, Turkey 196571 İskenderun, Turkey 159965<br>
+Output: İstanbul, Turkey 11174257<br>İzmir, Turkey 2500603<br> İzmit, Turkey 196571<br>İskenderun, Turkey 159965<br>
 Please enter the word : Exit Program is stopped.
